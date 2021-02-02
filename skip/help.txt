@@ -1,0 +1,13 @@
+pip install:
+
+pywin32
+keyboard
+pyautogui
+opencv-python
+
+
+remember:
+
+import pyautogui
+
+pyautogui.displayMousePosition()
